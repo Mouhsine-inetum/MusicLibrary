@@ -1,0 +1,181 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\Content\\Images\\btn.png",
+      "PackagePath": "staticwebassets\\Content\\Images\\btn.png"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\Content\\Images\\header.png",
+      "PackagePath": "staticwebassets\\Content\\Images\\header.png"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\Content\\Images\\logo.png",
+      "PackagePath": "staticwebassets\\Content\\Images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\Content\\Images\\minus.png",
+      "PackagePath": "staticwebassets\\Content\\Images\\minus.png"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\Content\\Images\\nav-bg.png",
+      "PackagePath": "staticwebassets\\Content\\Images\\nav-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\Content\\Images\\play.png",
+      "PackagePath": "staticwebassets\\Content\\Images\\play.png"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\Content\\Images\\plus.png",
+      "PackagePath": "staticwebassets\\Content\\Images\\plus.png"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\Content\\Images\\stars.png",
+      "PackagePath": "staticwebassets\\Content\\Images\\stars.png"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\Content\\Images\\youtube.ico",
+      "PackagePath": "staticwebassets\\Content\\Images\\youtube.ico"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\Content\\Scripts\\jquery.gallery.js",
+      "PackagePath": "staticwebassets\\Content\\Scripts\\jquery.gallery.js"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\Content\\Scripts\\modernizr.custom.53451.js",
+      "PackagePath": "staticwebassets\\Content\\Scripts\\modernizr.custom.53451.js"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\Content\\Scripts\\stars.js",
+      "PackagePath": "staticwebassets\\Content\\Scripts\\stars.js"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\Content\\Styles\\style.css",
+      "PackagePath": "staticwebassets\\Content\\Styles\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\Content\\Styles\\style.less",
+      "PackagePath": "staticwebassets\\Content\\Styles\\style.less"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\Content\\Styles\\style.min.css",
+      "PackagePath": "staticwebassets\\Content\\Styles\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\Content\\Styles\\templateStyle.css",
+      "PackagePath": "staticwebassets\\Content\\Styles\\templateStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\Content\\Styles\\templateStyle.less",
+      "PackagePath": "staticwebassets\\Content\\Styles\\templateStyle.less"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\Content\\Styles\\templateStyle.min.css",
+      "PackagePath": "staticwebassets\\Content\\Styles\\templateStyle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\SavedFiles\\30ef8cd9-379a-2bb3-8f54-2094a3ad24fc.jpg",
+      "PackagePath": "staticwebassets\\SavedFiles\\30ef8cd9-379a-2bb3-8f54-2094a3ad24fc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\SavedFiles\\All_Hope_is_Gone.jpg",
+      "PackagePath": "staticwebassets\\SavedFiles\\All_Hope_is_Gone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\SavedFiles\\Andragona.jpg",
+      "PackagePath": "staticwebassets\\SavedFiles\\Andragona.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\SavedFiles\\Cover_lifad.png",
+      "PackagePath": "staticwebassets\\SavedFiles\\Cover_lifad.png"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\SavedFiles\\EndOfTheProphesiedDawn.jpg",
+      "PackagePath": "staticwebassets\\SavedFiles\\EndOfTheProphesiedDawn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\SavedFiles\\FFDP-Got-Your-Six-Album-Cover.jpg",
+      "PackagePath": "staticwebassets\\SavedFiles\\FFDP-Got-Your-Six-Album-Cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\SavedFiles\\KoRnIssues.jpg",
+      "PackagePath": "staticwebassets\\SavedFiles\\KoRnIssues.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\SavedFiles\\Korn_logo.jpg",
+      "PackagePath": "staticwebassets\\SavedFiles\\Korn_logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\SavedFiles\\Lindemann_Skills_in_Pills.jpg",
+      "PackagePath": "staticwebassets\\SavedFiles\\Lindemann_Skills_in_Pills.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\SavedFiles\\Lindemann_logo.jpg",
+      "PackagePath": "staticwebassets\\SavedFiles\\Lindemann_logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\SavedFiles\\Mutter.jpg",
+      "PackagePath": "staticwebassets\\SavedFiles\\Mutter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\SavedFiles\\OB-UL405_ikorn_G_20120906052811.jpg",
+      "PackagePath": "staticwebassets\\SavedFiles\\OB-UL405_ikorn_G_20120906052811.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\SavedFiles\\Rammstein-Till-Lindemann-fire.jpg",
+      "PackagePath": "staticwebassets\\SavedFiles\\Rammstein-Till-Lindemann-fire.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\SavedFiles\\Slipknot.jpg",
+      "PackagePath": "staticwebassets\\SavedFiles\\Slipknot.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\SavedFiles\\Slipknot_Iowa.jpg",
+      "PackagePath": "staticwebassets\\SavedFiles\\Slipknot_Iowa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\SavedFiles\\Slipknot_Taylor.jpg",
+      "PackagePath": "staticwebassets\\SavedFiles\\Slipknot_Taylor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\SavedFiles\\finger_death_punch.jpg",
+      "PackagePath": "staticwebassets\\SavedFiles\\finger_death_punch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\SavedFiles\\finger_death_punch_logo_1.gif",
+      "PackagePath": "staticwebassets\\SavedFiles\\finger_death_punch_logo_1.gif"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\SavedFiles\\korn-5820-1078x516-1471045959.jpg",
+      "PackagePath": "staticwebassets\\SavedFiles\\korn-5820-1078x516-1471045959.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\SavedFiles\\rammstein_guitar.jpg",
+      "PackagePath": "staticwebassets\\SavedFiles\\rammstein_guitar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\SavedFiles\\rammstein_logo.jpg",
+      "PackagePath": "staticwebassets\\SavedFiles\\rammstein_logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MAICQ97\\source\\Az-204\\labs_special\\01\\MusicLibrary\\src\\MusicLibrary\\wwwroot\\SavedFiles\\slipknot_logo.jpg",
+      "PackagePath": "staticwebassets\\SavedFiles\\slipknot_logo.jpg"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.MusicLibrary.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.MusicLibrary.props",
+      "PackagePath": "build\\MusicLibrary.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MusicLibrary.props",
+      "PackagePath": "buildMultiTargeting\\MusicLibrary.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.MusicLibrary.props",
+      "PackagePath": "buildTransitive\\MusicLibrary.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

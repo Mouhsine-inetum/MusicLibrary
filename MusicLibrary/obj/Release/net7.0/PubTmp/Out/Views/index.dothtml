@@ -1,0 +1,80 @@
+﻿@viewModel MusicLibrary.ViewModels.IndexViewModel, MusicLibrary
+@masterPage Views/masterPage.dotmaster
+@import Resource = MusicLibrary.Resources.Texts
+
+<dot:Content ContentPlaceHolderID="HeaderContent">
+    <dot:RequiredResource Name="jquery-gallery" />
+    <dot:RequiredResource Name="style-css" />
+</dot:Content>
+
+<dot:Content ContentPlaceHolderID="PageContent">
+    <div class="slider-bg">
+        <div class="wrap">
+            <div class="container">
+                <section id="dg-container" class="dg-container">
+                    <div class="dg-wrapper">
+                        <dot:Repeater RenderWrapperTag="false" DataSource="{value: SliderImages}" RenderSettings.Mode="Server">
+                            <dot:RouteLink RouteName="BandDetail" Param-BandId="{value: BandId}">
+                                <img DataContext="{value: ImageStorageFile}" src="{value: "/SavedFiles/" + FileName}" alt="{value: DisplayName}"/>
+                            </dot:RouteLink>
+                        </dot:Repeater>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+    <div class="content-bg">
+        <div class="wrap">
+            <div class="main">
+                <div class="content">
+                    <h2>{{resource: Resource.FeaturedAlbums}}</h2>
+                    <div class="section group">
+                        <dot:Repeater DataSource="{value: FeaturedAlbums}" RenderWrapperTag="false" RenderSettings.Mode="Server">
+                            <div class="grid_1_of_3 images_1_of_3">
+                                <dot:RouteLink RouteName="AlbumDetail" param-AlbumId="{value: Id}">
+                                    <img class="logo-img" DataContext="{value: ImageStorageFile}" src="{value: "/SavedFiles/" + FileName}" alt="{value: DisplayName}"/>
+                                </dot:RouteLink>
+                                <dot:RouteLink RouteName="AlbumDetail" param-AlbumId="{value: Id}">
+                                    <h3>{{value: Name}}</h3>
+                                </dot:RouteLink>
+                            </div>
+                        </dot:Repeater>
+                    </div>
+                    <h2 class="bg">{{resource: Resource.RecentlyAdded}}</h2>
+                    <div class="section group">
+                        <dot:Repeater DataSource="{value: RecentlyAddedAlbums}" RenderWrapperTag="false" RenderSettings.Mode="Server">
+                            <div class="grid_1_of_3 images_1_of_3">
+                                <dot:RouteLink RouteName="AlbumDetail" param-AlbumId="{value: Id}">
+                                    <img class="logo-img" DataContext="{value: ImageStorageFile}" src="{value: "/SavedFiles/" + FileName}" alt="{value: DisplayName}" />
+                                </dot:RouteLink>
+                                <dot:RouteLink RouteName="AlbumDetail" param-AlbumId="{value: Id}">
+                                    <h3>{{value: Name}}</h3>
+                                </dot:RouteLink>
+                            </div>
+                        </dot:Repeater>
+                    </div>
+                </div>
+                <div class="sidebar">
+                    <div class="sidebar-list">
+                        <h2>{{resource: Resource.Categories}}</h2>
+                        <ul>
+                            <dot:Repeater DataSource="{value: Categories}" RenderWrapperTag="false" RenderSettings.Mode="Server">
+                                <li>
+                                    <dot:RouteLink Text="{value: NameLocalized}" RouteName="AlbumsByCategory" Param-CategoryId="{value: Id}" />
+                                </li>
+                            </dot:Repeater>
+                        </ul>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div>
+    </div>
+    <dot:InlineScript>
+        dotvvm.events.init.subscribe(function () {
+            $("#dg-container").gallery({
+                autoplay: true
+            });
+        });
+    </dot:InlineScript>
+</dot:Content>

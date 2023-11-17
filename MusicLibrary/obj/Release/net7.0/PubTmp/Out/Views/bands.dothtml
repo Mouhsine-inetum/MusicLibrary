@@ -1,0 +1,26 @@
+﻿@viewModel MusicLibrary.ViewModels.BandsViewModel, MusicLibrary
+@masterPage Views/contentMasterPage.dotmaster
+@import Resource = MusicLibrary.Resources.Texts
+
+<dot:Content ContentPlaceHolderID="HeaderContent">
+    <dot:RequiredResource Name="style-css" />
+</dot:Content>
+
+<dot:Content ContentPlaceHolderID="PageContent">
+    <h2>{{resource: Resource.Bands}}</h2>
+    <dot:Repeater DataSource="{{value: Bands}}" RenderWrapperTag="false" RenderSettings.Mode="Server">
+        <div class="image group">
+            <div class="grid images_3_of_1">
+                <dot:RouteLink RouteName="BandDetail" Param-BandId="{value: Id}">
+                    <img class="logo-img" DataContext="{value: ImageStorageFile}" src="{value: "/SavedFiles/" + FileName}" alt="{value: DisplayName}">
+                </dot:RouteLink>
+            </div>
+            <div class="grid span_2_of_3">
+                <dot:RouteLink RouteName="BandDetail" Param-BandId="{value: Id}">
+                    <h3>{{value: Name}}</h3>
+                </dot:RouteLink>
+                <p>{{value: Description}}</p>
+            </div>
+        </div>
+    </dot:Repeater>
+</dot:Content>

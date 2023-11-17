@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAvqLu9mPy60mzs+M7B5xk4QAAAAACAAAAAAAQZgAAAAEAACAAAAAfC/MqFGTENAnNMQw/6GhECH8sDazToSZsUL+fApyzvQAAAAAOgAAAAAIAACAAAAAv+04I+UaljIc6NHEk13V/fGKbWVc3V3Hxcab0gemiG4AAAABHotDCYMDaJgB3enGTtwaViVbPBu81sWMeDoZyABARuAJ836wqaEPmtY+28+otAEAeSHvAEI/9TlLDNAA7N4qFz2bSIHQiqD3XQrIJCzH2i0XkFmPMC+WhYgLtAy+tusIGbvQXea2Gwa4KZelhUA0vlGFJslH0nuADOB2QAEgv5kAAAAB5VDmHBnfPOKXWKPMA0zn1FMoPrrk5CJdevxWqLVqdSSX9K6LLsLEXYH/gRSakzoCRiaNxdjxA8ld4R2PDDoE3</EncryptedPassword>
+    <History>True|2023-11-17T12:40:53.9228228Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="MusicLibrary">
+      <Value>Server=tcp:az-sqlserver-music.database.windows.net,1433%3bInitial Catalog=MusicLibrary%3bPersist Security Info=False%3bUser ID=Ayi%3bPassword=Mouhsine98%2a%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

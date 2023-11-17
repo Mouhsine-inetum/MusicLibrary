@@ -1,0 +1,12 @@
+C:\Users\MAICQ97\source\Az-204\labs_special\01\MusicLibrary\src\DataLayer\bin\Debug\net7.0\DataLayer.deps.json
+C:\Users\MAICQ97\source\Az-204\labs_special\01\MusicLibrary\src\DataLayer\bin\Debug\net7.0\DataLayer.dll
+C:\Users\MAICQ97\source\Az-204\labs_special\01\MusicLibrary\src\DataLayer\bin\Debug\net7.0\DataLayer.pdb
+C:\Users\MAICQ97\source\Az-204\labs_special\01\MusicLibrary\src\DataLayer\obj\Debug\net7.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\MAICQ97\source\Az-204\labs_special\01\MusicLibrary\src\DataLayer\obj\Debug\net7.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAICQ97\source\Az-204\labs_special\01\MusicLibrary\src\DataLayer\obj\Debug\net7.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\MAICQ97\source\Az-204\labs_special\01\MusicLibrary\src\DataLayer\obj\Debug\net7.0\DataLayer.AssemblyInfo.cs
+C:\Users\MAICQ97\source\Az-204\labs_special\01\MusicLibrary\src\DataLayer\obj\Debug\net7.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\MAICQ97\source\Az-204\labs_special\01\MusicLibrary\src\DataLayer\obj\Debug\net7.0\DataLayer.dll
+C:\Users\MAICQ97\source\Az-204\labs_special\01\MusicLibrary\src\DataLayer\obj\Debug\net7.0\refint\DataLayer.dll
+C:\Users\MAICQ97\source\Az-204\labs_special\01\MusicLibrary\src\DataLayer\obj\Debug\net7.0\DataLayer.pdb
+C:\Users\MAICQ97\source\Az-204\labs_special\01\MusicLibrary\src\DataLayer\obj\Debug\net7.0\ref\DataLayer.dll
